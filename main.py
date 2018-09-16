@@ -48,6 +48,8 @@ pinyintothaidict =	{
 "àn":		"อั้น",
 "ang":		"อัง",
 "áng":		"อ๋าง",
+"àng":		"อ้าง",
+
 "ar":  "อาร์",
 "anr":  "อาร์",
 "air":		"อาร์",
@@ -129,7 +131,7 @@ pinyintothaidict =	{
 }
 
 
-inputwords = 'Céng yǒu yī shuāng shǒu jiào máng zhě zhòng míng Sheng mìng jiàn guāng huàn rán yī xīn, tā qí miào de shǒu cháng fǔ wèi zhe wǒ lǐng wǒ zǒu xiàng guāng míng. Qí miào de ēn diǎn ràng wǒ yòu dé zháo Měi hǎo de xīn sheng mìng, wǒ yǒng yuǎn gē sòng wǒ yǒng yuǎn zàn měi nǐ nà qí miào de shuāng shǒu. Ó! Zhǔ! Nǐ nà qí miào de shuāng shǒu, ó! Zhǔ! Nǐ nà cí ài de shuāng shǒu, qí miào de ēn diǎn ràng wǒ yòu dé zháo měi hǎo de xīn sheng mìng, wǒ yǒng yuǎn gē sòng wǒ yǒng yuǎn zàn měi nǐ nà qí miào de shuāng shǒu. Zhǔ nǐ de yán yǔ shì wǒ de néng lì Xiāng xìn zhě b ìděi zhe yī zhì, Qí miào de huà yǔ zhǔ yī zhì le wǒ lǐng wǒ zǒu xiàng guāng míng.'
+inputwords = 'Céng de ēn diǎn ràng' 
 outputlist = []
 outputstring = ''
 lowercasewords = inputwords.lower()
